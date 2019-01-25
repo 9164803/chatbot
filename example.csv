@@ -1,0 +1,200 @@
+folder,dialogueID,date,from,to,text
+3,126125.tsv,2008-04-23T14:55:00.000Z,bad_image,,"Hello folks, please help me a bit with the following sentence: 'Order here your personal photos or videos.' - I think the only allowed version is 'Order your personal videos or photos here.', but I'm not sure, are you?"
+3,126125.tsv,2008-04-23T14:56:00.000Z,bad_image,,Did I choose a bad channel? I ask because you seem to be dumb like windows user
+3,126125.tsv,2008-04-23T14:57:00.000Z,lordleemo,bad_image,the second sentence is better english   and we are not dumb
+3,64545.tsv,2009-08-01T06:22:00.000Z,mechtech,,Sock Puppe?t
+3,64545.tsv,2009-08-01T06:22:00.000Z,mechtech,,WTF?
+3,64545.tsv,2009-08-01T06:22:00.000Z,richardcavell,mechtech,"it's a wikipedia term.  There is Prodigy, PRDIGY and prgidy and they're all the same guy"
+3,98758.tsv,2009-05-20T07:58:00.000Z,C-00000100,Severity1,what is bartek trying to do?
+3,98758.tsv,2009-05-20T08:01:00.000Z,C-00000100,Severity1,is he trying to play online video?
+3,98758.tsv,2009-05-20T08:04:00.000Z,C-00000100,Severity1,"bartek go here, if this doesn't play then it gives you a link to get it... http://www.milkandcookies.com/link/45466/detail/"
+3,86303.tsv,2010-08-24T19:56:00.000Z,pozic,Somelauw,"the algorithms from aptitude were ported to apt-get, AFAIK."
+3,86303.tsv,2010-08-24T19:56:00.000Z,pozic,Somelauw,aptitude was more advanced at some point.
+3,86303.tsv,2010-09-03T18:41:00.000Z,pozic,Somelauw,convert probably can do that.
+3,122495.tsv,2008-03-12T03:50:00.000Z,Sinnerman,,is there any reason why my 'network manager' icon in my tray does not scale when the other ones get resized when i change the size of the panel?
+3,122495.tsv,2008-03-12T03:51:00.000Z,Pelo,Sinnerman,probably not a vector icon
+3,122495.tsv,2008-03-12T03:51:00.000Z,Sinnerman,Pelo,the other icons aren't vector icons either.
+3,208201.tsv,2008-08-21T12:49:00.000Z,BigBuddha,,how do fix vlc in the terminal?
+3,208201.tsv,2008-08-21T12:50:00.000Z,wols_,BigBuddha,fix what?
+3,208201.tsv,2008-08-21T12:50:00.000Z,wols_,BigBuddha,check other programs. same faint sound?
+3,176813.tsv,2007-05-17T12:01:00.000Z,svizzero,,"I installed the 64bit version of ubuntu and I can't open firefox(segfault) and if I try to open nautilus nothing happens and my cpu goes 100%, what can I do???"
+3,176813.tsv,2007-05-17T12:02:00.000Z,svizzero,,"Anyone knows why after I installed the 64bit version of ubuntu and I can't open firefox(segfault) and if I try to open nautilus nothing happens and my cpu goes 100%, what can I do???"
+3,176813.tsv,2007-05-17T12:03:00.000Z,Louey,svizzero,i sent you a link on how to install 32 bit
+3,186847.tsv,2008-04-14T17:50:00.000Z,biabia,,"ok, anyone know how I set bios password in ubuntu"
+3,186847.tsv,2008-04-14T17:50:00.000Z,biabia,,already set
+3,186847.tsv,2008-04-14T17:50:00.000Z,Pici,biabia,you'd need to set that in your BIOS.
+3,298924.tsv,2005-06-05T06:42:00.000Z,mr_XP,,Hello Does Ubuntu have somekind of register to configure applications and os settings?
+3,298924.tsv,2005-06-05T06:44:00.000Z,mr_XP,,Hello Does Ubuntu have somekind of register to configure applications and os settings?
+3,298924.tsv,2005-06-05T06:45:00.000Z,apollo2011,mr_XP,Linux doesn't have an equivalent to the Windows registry
+3,69595.tsv,2009-05-16T15:22:00.000Z,leeguy92,,how do i generate an xorg.conf file?
+3,69595.tsv,2009-05-16T15:23:00.000Z,leeguy92,,for intel GMAs
+3,69595.tsv,2009-05-16T15:23:00.000Z,ozzmosis,leeguy92,"'sudo xorg -configure', I think"
+3,121548.tsv,2008-10-15T07:59:00.000Z,dft,,anyone else run into issues with cd/dvd burners not identifying blank media installed?
+3,121548.tsv,2008-10-15T08:00:00.000Z,izinucs,dft,yep.. happened to me with a HP lightscribe cd/dvd burner.. replaced and all is well.
+3,121548.tsv,2008-10-15T08:01:00.000Z,izinucs,dft,you might try k3b as the burning software . .. I never really liked brassero
+3,288956.tsv,2005-10-26T09:04:00.000Z,hooligan,,Where does synoptic install the programs to? Like it aint on desktop
+3,288956.tsv,2005-10-26T09:05:00.000Z,hooligan,,nvm
+3,288956.tsv,2005-10-26T09:06:00.000Z,theblue,hooligan,"Synaptic installs the programs to wherever they need to be installed.  Most of them can be found in the Gnome menu, and if not there, in the Debian submenu.  All applications on your system that are recognized by Synaptic are in your Debian submenu."
+3,69066.tsv,2009-12-23T00:10:00.000Z,thevishy,,are there any utils that will do a repair of your laptop once in a while ?
+3,69066.tsv,2009-12-23T00:10:00.000Z,thevishy,,like you have advaned system optimizer in windows sort of stuff
+3,69066.tsv,2009-12-23T00:10:00.000Z,kuttans,thevishy,repair in the sense? clean up of unused files ?
+3,82138.tsv,2009-02-10T16:37:00.000Z,adante,,"hi folks, i'm making a backup of my root partition just incase this gparted livecd resize goes wrong - at the moment i am just cp -Rp /bin /etc /lib /sbin /usr /boot /home /opt /srv /var /vmlinuz /media /opt /root  -- is there anything else i should be doing?"
+3,82138.tsv,2009-02-10T16:39:00.000Z,cdburgess,adante,use tar
+3,82138.tsv,2009-02-10T16:41:00.000Z,cdburgess,adante,try g4l
+3,16039.tsv,2011-06-23T21:40:00.000Z,Faustus2,,is there a way to tell ubuntu not to show icon for a specific external hdd on the desktop? (but i want others to show up on the desktop)
+3,16039.tsv,2011-06-23T21:40:00.000Z,RedRobot,Faustus2,can use a udev rule for it
+3,16039.tsv,2011-06-23T21:43:00.000Z,Faustus2,RedRobot,thanks :)
+3,139001.tsv,2009-11-30T22:25:00.000Z,aeon-ltd,,parsi: chmod 777
+3,139001.tsv,2009-11-30T22:25:00.000Z,aeon-ltd,,parsi: to the file
+3,139001.tsv,2009-11-30T22:25:00.000Z,Parsi,aeon-ltd,^^^
+3,74516.tsv,2009-04-04T02:19:00.000Z,SectionOne,,Is there a second cd needed for the 9.04 beta server install? I keep reaching about 77% completed and then it asks for 'Ubuntu-Server 9.04 _Jaunty Jackalope_ Beta i386 (20090324.2)'
+3,74516.tsv,2009-04-04T02:20:00.000Z,oCean_,SectionOne,"since jaunty is still beta, all issues/discussions go in #ubuntu+1 channel, please"
+3,74516.tsv,2009-04-04T02:20:00.000Z,SectionOne,oCean_,thnx
+3,223998.tsv,2006-06-15T12:31:00.000Z,harry,,can someone giv me a link in ubuntu wiki to install sun java
+3,223998.tsv,2006-06-15T12:31:00.000Z,someRandomGuy,harry,java.com
+3,223998.tsv,2006-06-15T12:32:00.000Z,harry,someRandomGuy,i mean running the command in terminal to get sun java. there are 2 kinds the black and the sun
+3,127690.tsv,2011-08-09T06:17:00.000Z,Matryx,,"hi, can someone help me install a dual boot for windows 7 and ubuntu. I've installed Win7 and I've installed ubuntu and made a /boot, /home, /root, and swap partitions. The /boot is a primary partition and the rest is logical. I set the device boot loader to /boot and when I restart I get a error grub rescue message"
+3,127690.tsv,2011-08-09T06:18:00.000Z,Matryx,,am i supposed to set the device boot loader to /dev/sda or sda3? where the /boot partition is
+3,127690.tsv,2011-08-09T06:19:00.000Z,rww,Matryx,"/dev/sda, as a general rule"
+3,195638.tsv,2007-04-09T12:21:00.000Z,whiskyhotel,,"idleone, i went through the set up and entered all infomation include horiz and vert sync rates but when i go to the screen resolution setting i still dont see any new options, do i have to restart before they take effect?"
+3,195638.tsv,2007-04-09T12:23:00.000Z,whiskyhotel,,"idleone, maybe i didn't use the right depth it gave me the option of 16 and 24 i selected 16, should i try 24?"
+3,195638.tsv,2007-04-09T12:23:00.000Z,klock,whiskyhotel,"linux systems can be fully updated without a restart, even the kernel"
+3,71195.tsv,2010-08-27T11:29:00.000Z,mjwalker,, itsux2bu i use Deskyop version
+3,71195.tsv,2010-08-27T11:29:00.000Z,mjwalker,,shall i use Server one
+3,71195.tsv,2010-08-27T11:31:00.000Z,KB1JWQ,mjwalker,Yes.  Postfix + Dovecot tend to make a decent email stack.
+3,301153.tsv,2005-09-27T05:48:00.000Z,enntee,,Can anyone recommend an NFS alternative that works transparently?
+3,301153.tsv,2005-09-27T05:49:00.000Z,nalioth,enntee,"once you get NFS set up, it IS transparent"
+3,301153.tsv,2005-09-27T05:49:00.000Z,enntee,nalioth,"yeah, i know. but it's a PITA trying to keep my uid/gid's in sync"
+3,336607.tsv,2004-10-25T06:49:00.000Z,kremlyn,,http://www.newsforge.com/article.pl?sid=04/10/12/1421241
+3,336607.tsv,2004-10-25T06:49:00.000Z,kremlyn,,Article on Ubuntu.
+3,336607.tsv,2004-10-25T06:50:00.000Z,joolz,kremlyn,sloooow
+3,257535.tsv,2010-03-17T04:36:00.000Z,hardbop200,,"hi all - I'm trying to find ttf-bitstream-vera for karmic, but it's not there, and my google-fu is failing me. can someone point me to some hints?"
+3,257535.tsv,2010-03-17T04:37:00.000Z,erUSUL,hardbop200,they've been replaced by DejaVu fonts
+3,257535.tsv,2010-03-17T04:37:00.000Z,hardbop200,erUSUL,cool! thank you.
+3,81948.tsv,2009-04-23T12:15:00.000Z,sriramoman,,what time will jaunty-ubuntu mostly be released
+3,81948.tsv,2009-04-23T12:15:00.000Z,g4lt-lappy,sriramoman,^^^^^
+3,81948.tsv,2009-04-23T12:16:00.000Z,sriramoman,g4lt-lappy,it doesnt state the time...
+3,37144.tsv,2010-06-06T08:05:00.000Z,FlameTai1,,"Question guys, I know it's probably in the manual some where but I'm too lazy to look, where abouts is the setting to make the icons on the desktop smaller?"
+3,37144.tsv,2010-06-06T08:06:00.000Z,bastid_raZor,FlameTai1,can't you alt + middle click and resize them?
+3,37144.tsv,2010-06-06T08:06:00.000Z,FlameTai1,bastid_raZor,That doesn't work for me
+3,90139.tsv,2009-06-25T22:05:00.000Z,RkyRaccoon,,can someone help me print from a wireless printer using 9.04?
+3,90139.tsv,2009-06-25T22:05:00.000Z,mezquitale,RkyRaccoon,is the wireless printer already set up?? Does it have an ip and can you ping it?
+3,90139.tsv,2009-06-25T22:06:00.000Z,RkyRaccoon,mezquitale,"its my dads, ive never used it before.  IT works for him so i think its all set up"
+3,27998.tsv,2010-11-01T03:56:00.000Z,CaneToad,,"when I upgraded from 10.04 to 10.10, the upgrade process put the UUID of the wrong partition in /boot/grub/menu.lst ... which package should I report a bug against?"
+3,27998.tsv,2010-11-01T03:57:00.000Z,Devilz_108,CaneToad,Against the upgrade tool
+3,27998.tsv,2010-11-01T03:58:00.000Z,CaneToad,Devilz_108,thanks
+3,207491.tsv,2007-02-04T09:42:00.000Z,ciro,,how can I install mercury messanger on ubuntu?
+3,207491.tsv,2007-02-04T09:43:00.000Z,silvertip257,ciro," you need to follow the directions:  it's tricky, but you can"
+3,207491.tsv,2007-02-04T09:43:00.000Z,silvertip257,ciro, if i remember right you need to do some sneaky stuff to enable the sys tray
+3,34410.tsv,2010-08-11T04:58:00.000Z,EDinNY,,hints on how  to get Nvidia driver to work?
+3,34410.tsv,2010-08-11T04:59:00.000Z,ilovefairuz,EDinNY,https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+3,34410.tsv,2010-08-11T04:59:00.000Z,EDinNY,ilovefairuz,thanks
+3,132834.tsv,2008-03-16T07:35:00.000Z,myusername,,whats the best gnome irc?
+3,132834.tsv,2008-03-16T07:35:00.000Z,Starnestommy,myusername,xchat or xchat-gnome
+3,132834.tsv,2008-03-16T07:39:00.000Z,Starnestommy,myusername,which slash bar?
+3,230515.tsv,2007-08-31T15:49:00.000Z,Fub,,"I'm having problems setting up samba. It seems to work,"
+3,230515.tsv,2007-08-31T15:50:00.000Z,Fub,,I can share folders but the shared folders can't be written to over the net
+3,230515.tsv,2007-08-31T15:50:00.000Z,Pelo,Fub, there is also a #samba channel if you need more then this channel can provide
+3,143795.tsv,2008-05-09T07:54:00.000Z,Goldenson,,i just have a problem with my laptop it does not want to find the network in 8.04 or connect to it i have a broadcom wireless card
+3,143795.tsv,2008-05-09T07:54:00.000Z,LSD|Ninja,Goldenson,you need ndiswrapper
+3,143795.tsv,2008-05-09T07:55:00.000Z,LSD|Ninja,Goldenson,Take at look at: http://ubuntuforums.org/showthread.php?p=1071920&mode=linear or http://ubuntuforums.org/showthread.php?t=25683 they might help
+3,221412.tsv,2012-09-27T15:11:00.000Z,quetzacotl,,"I have to do this on every system, or just make one in run directory and it will work for everyone who download this app?"
+3,221412.tsv,2012-09-27T15:13:00.000Z,quetzacotl,,"I'm new to ubuntu, how can do I make hidden files visible?"
+3,221412.tsv,2012-09-27T15:14:00.000Z,fidel,quetzacotl,depends on what app / viewer you are talking about. nautilus offers a menu option for that
+3,198736.tsv,2007-02-17T06:14:00.000Z,lightup,,Is it possible to disable the graphics card in my AGP slot and run from my onboard graphics without removing the card?
+3,198736.tsv,2007-02-17T06:14:00.000Z,Quintin,lightup,"Probably.  Look at the BIOS for your computer, not here. (!)"
+3,198736.tsv,2007-02-17T06:15:00.000Z,lightup,Quintin,"ok thanks, I thought it was something you did in the OS"
+3,303219.tsv,2009-05-16T02:54:00.000Z,shipitkthx,,"ok so im upgrading a server from gutsy to hardy over ssh, and it just got to 'starting kernel log daemon' and now its just hanging there, im lost as far as what to do"
+3,303219.tsv,2009-05-16T02:56:00.000Z,IcemanV9,shipitkthx,"do you have access to the server? if yes, then do it on the console."
+3,303219.tsv,2009-05-16T02:58:00.000Z,IcemanV9,shipitkthx,"ah. okay. then, you'll need to check it out to be sure that it can be reboot when it's done."
+3,220098.tsv,2006-11-17T11:05:00.000Z,aztracker1,,"quick question, if anyone knows.. is there a tutorial on how to switch to an SMP kernel?  I'm using a p4HT, I have the HT dissabled, not sure if it's better off that way in nix or not?"
+3,220098.tsv,2006-11-17T11:05:00.000Z,variant,aztracker1,edgy uses smp enabled kernel by default. dapper you have to install it with apt-get
+3,220098.tsv,2006-11-17T11:06:00.000Z,aztracker1,variant,thx
+3,241945.tsv,2006-04-05T07:12:00.000Z,we2by_,,http://paste.ubuntu-nl.org/11156
+3,241945.tsv,2006-04-05T07:12:00.000Z,we2by_,,some one helps me with those dependencies problems
+3,241945.tsv,2006-04-05T07:13:00.000Z,sfaris_,we2by_,tried 'apt-get -f install' ?
+3,345748.tsv,2005-03-14T06:37:00.000Z,t31,,anyone knows witch port uses apt-get?
+3,345748.tsv,2005-03-14T06:38:00.000Z,t31,,hi :)
+3,345748.tsv,2005-03-14T06:38:00.000Z,bob2,t31,it just uses ftp/http
+3,13787.tsv,2011-10-18T16:26:00.000Z,nsahoo,,"hi, I can't open cdrom drive. running ubuntu 11.10 now"
+3,13787.tsv,2011-10-18T16:27:00.000Z,nsahoo,,how should I go about trouble shooting now
+3,13787.tsv,2011-10-18T16:27:00.000Z,gr33n7007h,nsahoo,type 'eject' in terminal
+3,290325.tsv,2006-10-30T13:40:00.000Z,moolcool,,how do i switch to kbuntu?
+3,290325.tsv,2006-10-30T13:40:00.000Z,Gotti,moolcool,'sudo apt-get install kubuntu-desktop'
+3,290325.tsv,2006-10-30T13:40:00.000Z,Gotti,moolcool,nope...not at all.
+3,130026.tsv,2012-05-19T15:19:00.000Z,mr^swift,,is it possible to remove bottom shelf in gnome classic?
+3,130026.tsv,2012-05-19T15:19:00.000Z,mr^swift,,fair enough ... .thanks
+3,130026.tsv,2012-05-19T15:20:00.000Z,ActionParsnip,mr^swift,i believe it's ALT+Shift+right click -> delete
+3,281632.tsv,2006-06-06T13:26:00.000Z,painkiler,,"hey, I just changed the cd drive"
+3,281632.tsv,2006-06-06T13:26:00.000Z,painkiler,,AND it worked!
+3,281632.tsv,2006-06-06T13:26:00.000Z,aftertaf,painkiler,hehe
+3,204053.tsv,2008-08-17T19:11:00.000Z,Zta,,When is Ubuntu 8.8 being released?
+3,204053.tsv,2008-08-17T19:12:00.000Z,rambo3,Zta,"never , next is .10"
+3,204053.tsv,2008-08-17T19:12:00.000Z,Zta,rambo3,"ah, ok."
+3,252263.tsv,2006-01-28T10:10:00.000Z,ubuntugeek,,"Forums will be backup 1/23/2006 around 10am EST.. just a heads up, we needed to do some emergency work."
+3,252263.tsv,2006-01-28T10:10:00.000Z,ubuntugeek,,yeah we finally tracked the issue down today..
+3,252263.tsv,2006-01-28T10:11:00.000Z,galgoz,ubuntugeek,"ah, good to hear"
+3,89596.tsv,2009-04-01T21:09:00.000Z,LargePrime,,is their a recommended PDF editor?
+3,89596.tsv,2009-04-01T21:11:00.000Z,arkanabar,LargePrime, access the repos with either apt (command line) or synaptic (GUI) package manager.
+3,89596.tsv,2009-04-01T21:11:00.000Z,LargePrime,arkanabar,thanks
+3,224213.tsv,2007-09-07T14:29:00.000Z,slash,,PLEASE
+3,224213.tsv,2007-09-07T14:29:00.000Z,slash,,WOMENS
+3,224213.tsv,2007-09-07T14:29:00.000Z,jrib,slash,/join #ubuntu-es
+3,297237.tsv,2006-06-24T08:24:00.000Z,LamaZitten,,Anyone please? i'm sure there is a simple program I'm missing...
+3,297237.tsv,2006-06-24T08:24:00.000Z,vanberge,LamaZitten,you just want to use cp? from command line?
+3,297237.tsv,2006-06-24T08:24:00.000Z,vanberge,LamaZitten,"if you are just copying, don't worry about corruption.  even if something really bad happene'd you'd still have the original correct?"
+3,102061.tsv,2009-01-25T00:00:00.000Z,guntbert,laeg,"you can type 'your_cmd | less' to see all, when you had enough finish with q"
+3,102061.tsv,2009-01-25T00:12:00.000Z,guntbert,laeg,you will have to ask the manufacturer...
+3,102061.tsv,2009-01-25T00:14:00.000Z,laeg,guntbert,ok ty
+3,229827.tsv,2007-08-18T09:13:00.000Z,anothrguitarist,,/!register
+3,229827.tsv,2007-08-18T09:13:00.000Z,anothrguitarist,,er
+3,229827.tsv,2007-08-18T09:14:00.000Z,Pelo,anothrguitarist,  /nickserv help register
+3,277113.tsv,2010-11-10T18:39:00.000Z,k-rad,,does Ubuntu outsource india ?
+3,277113.tsv,2010-11-10T18:40:00.000Z,sipior,k-rad,i think the Indians might have something to say about that.
+3,277113.tsv,2010-11-10T18:41:00.000Z,sipior,k-rad,what difference does it make? did you have an ubuntu-related question?
+3,124520.tsv,2008-02-15T20:46:00.000Z,bod_,,no
+3,124520.tsv,2008-02-15T20:46:00.000Z,bod_,,the text based
+3,124520.tsv,2008-02-15T20:48:00.000Z,hfmls_,bod_,"ok , i have intel onboard vga, with hdmi output, how do i use it?"
+3,111301.tsv,2008-05-21T01:56:00.000Z,theFATMAN,,"hello everyone, it's another grand ubuntu day. Does anyone know what I can use to open winrar archives?"
+3,111301.tsv,2008-05-21T01:57:00.000Z,theFATMAN,,how is everybody?
+3,111301.tsv,2008-05-21T01:58:00.000Z,Desolate1,theFATMAN,a little aggravated. You?
+3,22595.tsv,2012-11-30T17:48:00.000Z,satya,,hello we are running ubuntu 10.10 server .. we are facing issue related to connection getting reset when we access port 80 .. all other ports are accessed properly. we have disabled iptables and all other firewall ufw but still no luck
+3,22595.tsv,2012-11-30T17:49:00.000Z,MonkeyDust,satya,10.10 is no longer supported*
+3,22595.tsv,2012-11-30T17:50:00.000Z,MonkeyDust,satya,there's also #ubuntu-server
+3,62265.tsv,2010-07-24T02:43:00.000Z,Apocryphic,,Is something going on?  All of my mini.iso installs are failing on the linux-generic package.
+3,62265.tsv,2010-07-24T02:43:00.000Z,Apocryphic,,"They were working before, but it's been a few weeks since I needed to install Ubuntu."
+3,62265.tsv,2010-07-24T02:44:00.000Z,trism,Apocryphic,"the linux-generic various meta packages have been updated, but the actual packages aren't up yet (or they weren't earlier)"
+3,186119.tsv,2010-02-01T21:43:00.000Z,UbuntuUser,,"Hi all, I want to install the guest extensions of virtualbox in ubuntu 10.04"
+3,186119.tsv,2010-02-01T21:43:00.000Z,UbuntuUser,,but they dont work
+3,186119.tsv,2010-02-01T21:43:00.000Z,Pici,UbuntuUser,: Please join #ubuntu+1 for Lucid/10.4 support/discussion.
+3,66092.tsv,2009-06-16T13:33:00.000Z,g7,,what is your wireless problem?
+3,66092.tsv,2009-06-16T13:33:00.000Z,ls1983,g7,"it will not connect keeps asking for passphrase altough i have inputted the right and using key1, WEP"
+3,66092.tsv,2009-06-16T13:35:00.000Z,ls1983,g7,yes it's a wirless router and had it connected before but no its not workin
+3,16024.tsv,2012-03-17T22:18:00.000Z,Dynamit,,"yay i Have MeeGo as Second OS on my phone but it need to be Develop more, is slow as *** (sure I'm using micro-sd but still it should not be that slow)and is many problem with the OS"
+3,16024.tsv,2012-03-17T22:19:00.000Z,bazhang,Dynamit,connection to ubuntu support?
+3,16024.tsv,2012-03-17T22:20:00.000Z,Dynamit,bazhang,o man sorry i have to much in my head forget some time's the rules for all channels i'm in.
+3,261985.tsv,2006-03-30T13:04:00.000Z,ASTX813,,BOOOOOOOYAAAAAAAHHHHHHHH!
+3,261985.tsv,2006-03-30T13:04:00.000Z,sethrd,ASTX813,You scared me.
+3,261985.tsv,2006-03-30T13:04:00.000Z,sethrd,ASTX813,Get soemthing to work?
+3,210825.tsv,2008-06-02T12:58:00.000Z,zorglu_,Flannel,the buggyness of the distro is fully on topic
+3,210825.tsv,2008-06-02T12:58:00.000Z,Flannel,zorglu_,"No, this is a channel for support, not discussions about Ubuntu"
+3,210825.tsv,2008-06-02T12:58:00.000Z,zorglu_,Flannel,well you seem to believe that support is unrelated to buggyness :) lets say you quite alone to think so
+3,200656.tsv,2007-11-08T06:25:00.000Z,Cerebru1,,"Where can I get help regarding sound problems? Yes I know, I have read tons of documentations and even installed another alsa version... I'm 2 days searching for solutions"
+3,200656.tsv,2007-11-08T06:26:00.000Z,Cerebru1,,"Where can I get help regarding sound problems? Yes I know, I have read tons of documentations and even installed another alsa version... I'm 2 days searching for solutions"
+3,200656.tsv,2007-11-08T06:27:00.000Z,Jordan_U,Cerebru1,What problems?
+3,156034.tsv,2007-08-02T14:14:00.000Z,Yulquen,,"when installing ubuntu at the free area of a hard disk with xp on, does the installer put a boot selector at the beginning of the disk?"
+3,156034.tsv,2007-08-02T14:14:00.000Z,chaosmachine,Yulquen,"Yes, one called 'grub'"
+3,156034.tsv,2007-08-02T14:15:00.000Z,chaosmachine,Yulquen,"as far as I know, its entire setup is automatic in ubuntu."
+3,9255.tsv,2011-11-24T21:51:00.000Z,ubuntunoob,,actually
+3,9255.tsv,2011-11-24T21:51:00.000Z,ubuntunoob,,just a sec i have an idea
+3,9255.tsv,2011-11-24T21:53:00.000Z,Juggernaut,ubuntunoob,I'm going to try out the steps detailed in the first link
+3,60415.tsv,2009-09-02T02:53:00.000Z,jpds,,!pinning | zanberdo
+3,60415.tsv,2009-09-02T02:55:00.000Z,jpds,,!guidelines | cryptopsy
+3,60415.tsv,2009-09-02T02:55:00.000Z,cryptopsy,jpds,/topic works too - I find it more conveniant than copy/pasting. What say you?
+3,93445.tsv,2008-11-17T22:15:00.000Z,bingungaja,,"i'd installed ubuntu in my notebook, can i make a partition ? how ?"
+3,93445.tsv,2008-11-17T22:16:00.000Z,Acedip,bingungaja,or just cfdisk - z 'ur disk'
+3,93445.tsv,2008-11-17T22:17:00.000Z,Acedip,bingungaja,check the 'man cfdisk'
+3,198802.tsv,2011-12-31T16:55:00.000Z,d4nt3,,can somebody help me....how to recover file in formatted ntfs external HD?
+3,198802.tsv,2011-12-31T16:55:00.000Z,d4nt3,,can somebody help me....how to recover file in formatted ntfs external HD?
+3,198802.tsv,2011-12-31T16:56:00.000Z,Adrian_,d4nt3,"can try recover my files it on torrent I have always had some results, just install and select drive and run."
+3,224800.tsv,2010-09-27T04:01:00.000Z,thanis1200,,does anyone know how FF can use 99-100% CPU ?
