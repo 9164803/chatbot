@@ -1,0 +1,303 @@
+folder,dialogueID,date,from,to,text
+301,1.tsv,2004-11-23T11:49:00.000Z,stuNNed,,any ideas why java plugin takes so long to load?
+301,1.tsv,2004-11-23T11:49:00.000Z,crimsun,stuNNed,java 1.4?
+301,1.tsv,2004-11-23T11:49:00.000Z,stuNNed,crimsun,yes
+301,1.tsv,2004-11-23T11:49:00.000Z,crimsun,stuNNed,java 1.5 loads _much_ faster
+301,1.tsv,2004-11-23T11:50:00.000Z,stuNNed,crimsun,noneus: how can i get 1.5 is there a .deb somewhere?
+301,1.tsv,2004-11-23T11:50:00.000Z,crimsun,stuNNed,not yet.
+301,1.tsv,2004-11-23T11:50:00.000Z,stuNNed,crimsun,noneus: is this blackdown or sun?
+301,1.tsv,2004-11-23T11:50:00.000Z,stuNNed,crimsun,did you install just the jre?
+301,1.tsv,2004-11-23T11:51:00.000Z,crimsun,stuNNed,I use IBM's 1.4.2
+301,1.tsv,2004-11-23T11:51:00.000Z,crimsun,stuNNed,"(jdk, because I do globus development)"
+301,1.tsv,2004-11-23T11:52:00.000Z,stuNNed,crimsun,"ah ok then, i'll give it a try, does IBM have a standard jre with plugin?"
+301,1.tsv,2004-11-23T11:52:00.000Z,crimsun,stuNNed,yes
+301,1.tsv,2004-11-23T11:52:00.000Z,stuNNed,crimsun,"thanks, i'll try that, screwed up and tried to upgrade firefox/java on my own now java takes real long time to load"
+301,1.tsv,2004-11-23T11:57:00.000Z,stuNNed,crimsun,"can't seem to find an ibm jre package, would you happen to have a url?"
+301,1.tsv,2004-11-23T11:59:00.000Z,crimsun,stuNNed,https://www6.software.ibm.com/dl/lxdk/lxdk-p
+301,1.tsv,2004-11-23T11:59:00.000Z,crimsun,stuNNed,you have to create a login.
+301,1.tsv,2004-11-23T11:59:00.000Z,stuNNed,crimsun,much appreciated
+301,1.tsv,2004-11-23T12:09:00.000Z,stuNNed,crimsun,1.42 is latest IBM java?
+301,1.tsv,2004-11-23T12:10:00.000Z,crimsun,stuNNed,yes.
+301,1.tsv,2004-11-23T12:10:00.000Z,crimsun,stuNNed,for certain arches
+301,1.tsv,2004-11-23T12:10:00.000Z,stuNNed,crimsun,do you have j2se-common installed in ubuntu as well is ibm's java?
+301,1.tsv,2004-11-23T12:11:00.000Z,crimsun,stuNNed,I do not.
+301,1.tsv,2004-11-23T12:11:00.000Z,stuNNed,crimsun,"ok, got it"
+301,1.tsv,2004-11-23T12:17:00.000Z,stuNNed,crimsun,"i don't know what's up, no matter what java plugin i use, it takes a really long time to load a java applet"
+301,1.tsv,2004-11-23T12:31:00.000Z,stuNNed,crimsun,are you using warty or hoary?  and firefox .9 or 1.0?
+301,1.tsv,2004-11-23T12:31:00.000Z,crimsun,stuNNed,Hoary (kernel from Warty) mixed with Debian Sid+experimental. mozilla-firefox 1.0-2 from Sid.
+301,1.tsv,2004-11-23T12:31:00.000Z,stuNNed,crimsun,"eh, i dare not to go there :)"
+301,1.tsv,2004-11-23T12:32:00.000Z,stuNNed,crimsun,where'd you get that mozilla-firefox from sid? ;)
+301,1.tsv,2004-11-23T12:32:00.000Z,crimsun,stuNNed,it's in Sid's pool
+301,1.tsv,2004-11-23T12:32:00.000Z,stuNNed,crimsun,i can get the .deb on the web?
+301,1.tsv,2004-11-23T12:33:00.000Z,crimsun,stuNNed,"sure, but I'd wait a couple days. It'll probably be in Hoary within days."
+301,1.tsv,2004-11-23T12:33:00.000Z,stuNNed,crimsun,but...Hoary...isn't that unstable?
+301,1.tsv,2004-11-23T12:35:00.000Z,stuNNed,crimsun,how did you hold back and keep Warty kernel?
+301,1.tsv,2004-11-23T12:36:00.000Z,crimsun,stuNNed,"I use apt-pinning to keep the linux-* (well, kernel-related) packages pinned to warty-security"
+301,1.tsv,2004-11-23T12:43:00.000Z,stuNNed,crimsun,"ok so far IBM's java is pretty clean, fast, and seems stable (so far) :D"
+301,1.tsv,2004-11-23T12:43:00.000Z,crimsun,stuNNed,indeed.
+301,1.tsv,2004-11-28T11:40:00.000Z,stuNNed,crimsun,so just wait a day for sed error to be fixed and don't `apt-get upgrade` at this time?
+301,1.tsv,2004-11-28T11:45:00.000Z,crimsun,stuNNed,it is already fixed. The matter of the fixed package migrating to pool is of time.
+301,1.tsv,2004-11-28T11:45:00.000Z,stuNNed,crimsun,"got it, thanks"
+301,1.tsv,2004-11-28T11:46:00.000Z,stuNNed,crimsun,"LOL, CRASH! :D"
+301,1.tsv,2004-12-18T11:16:00.000Z,crimsun,stuNNed,dell laptop?
+301,1.tsv,2004-12-18T11:16:00.000Z,crimsun,stuNNed,lsmod|grep snd_intel8x0m|wc -l
+301,1.tsv,2004-12-18T11:17:00.000Z,stuNNed,crimsun,0 but i did install hsf deb early on then upgraded to hoary
+301,1.tsv,2004-12-18T11:17:00.000Z,stuNNed,crimsun,and yes dell laptop sorry
+301,1.tsv,2004-12-18T11:18:00.000Z,crimsun,stuNNed,look in /proc/interrupts and ensure an irq is being assigned to your sound chipset
+301,1.tsv,2004-12-18T11:18:00.000Z,stuNNed,crimsun,roger
+301,1.tsv,2004-12-18T11:19:00.000Z,stuNNed,crimsun,only thing closely resembling is i8042 would that be it?
+301,1.tsv,2004-12-18T11:19:00.000Z,crimsun,stuNNed,nope
+301,1.tsv,2004-12-18T11:19:00.000Z,stuNNed,crimsun,"ok, thanks! how to fix?"
+301,1.tsv,2004-12-18T11:19:00.000Z,crimsun,stuNNed,"and snd_intel8x0 is loaded, correct?"
+301,1.tsv,2004-12-18T11:21:00.000Z,stuNNed,crimsun,yes it is loaded
+301,1.tsv,2004-12-18T11:21:00.000Z,stuNNed,crimsun,could be installing hsf from the get-go cause this?
+301,1.tsv,2004-12-18T11:21:00.000Z,crimsun,stuNNed,I'm not familiar w/ 'hsf'
+301,1.tsv,2004-12-18T11:22:00.000Z,stuNNed,crimsun,hsf linuxant modem drivers
+301,1.tsv,2004-12-18T11:23:00.000Z,crimsun,stuNNed,ah.
+301,1.tsv,2004-12-18T11:23:00.000Z,crimsun,stuNNed,"I'd try and disable anything in bios you're not using, like a printer port (since you're already using the modem)"
+301,1.tsv,2004-12-18T11:29:00.000Z,stuNNed,crimsun,dell bios is usually pretty limited but looking into now thanks
+301,1.tsv,2004-12-18T11:39:00.000Z,stuNNed,crimsun,indeed.  you are the man.  i disabled as much as possible in bios and not soundcard is assigned an irq is it?  wonder why all of a sudden this needed to be done?  maybe because modem driver was properly installed?
+301,1.tsv,2004-12-18T11:40:00.000Z,crimsun,stuNNed,"I've seen the error quite a few times with snd-intel8x0m being loaded, or an irq not being assigned, etc."
+301,1.tsv,2004-12-18T11:41:00.000Z,crimsun,stuNNed,"seems to be a problem with that bios, but I'm not certain."
+301,1.tsv,2004-12-18T11:41:00.000Z,stuNNed,crimsun,this bios has multiple issues actually :)
+301,1.tsv,2004-12-18T11:41:00.000Z,stuNNed,crimsun,can't get apm working with it and ubuntu and acpi support is iffy at this point
+301,1.tsv,2005-01-04T13:21:00.000Z,stuNNed,crimsun,why is ssh only listening on tcp6?
+301,1.tsv,2005-01-04T13:22:00.000Z,crimsun,stuNNed,huh?
+301,1.tsv,2005-01-04T13:22:00.000Z,stuNNed,crimsun,"sorry, netstat -tupan says ssh is listening on 'tcp6' is that ipv6 only?"
+301,1.tsv,2005-01-04T13:22:00.000Z,crimsun,stuNNed,"no, that includes IPv4"
+301,1.tsv,2005-01-04T13:29:00.000Z,stuNNed,crimsun,do you have openssh-server installed? if so can you real quick 'ssh localhost' let me know if it works? if you are running unstable...
+301,1.tsv,2005-01-05T12:40:00.000Z,crimsun,stuNNed,it's fine.
+301,1.tsv,2005-01-07T17:38:00.000Z,crimsun,stuNNed,on the wiki.
+301,1.tsv,2005-01-07T17:38:00.000Z,stuNNed,crimsun,roger that :)
+301,1.tsv,2005-01-09T12:56:00.000Z,crimsun,stuNNed,any more broken than normal? no.
+301,1.tsv,2005-01-09T12:57:00.000Z,stuNNed,crimsun,"can't get my usb mp3 player to fire up with gnomad2, it just hangs, and latest isn't in SID yet, which i need as it's a new player"
+301,1.tsv,2005-01-09T13:00:00.000Z,stuNNed,crimsun,what is the command to make a dep out of a source package?  'make dist' ?
+301,1.tsv,2005-01-09T13:00:00.000Z,stuNNed,crimsun,dep/deb
+301,1.tsv,2005-01-09T13:01:00.000Z,crimsun,stuNNed,"no, it's more complicated than that for some packages."
+301,1.tsv,2005-01-09T13:01:00.000Z,crimsun,stuNNed,for what application are you attempting this?
+301,1.tsv,2005-01-09T13:02:00.000Z,stuNNed,crimsun,libnjb
+301,1.tsv,2005-01-09T13:02:00.000Z,stuNNed,crimsun,there is 'debian' subdir
+301,1.tsv,2005-01-10T07:33:00.000Z,crimsun,stuNNed,which x.org devel package?
+301,1.tsv,2005-01-10T07:42:00.000Z,stuNNed,crimsun,um there is no xorg-devel ?
+301,1.tsv,2005-01-10T08:20:00.000Z,crimsun,stuNNed,what issues?
+301,1.tsv,2005-01-10T08:21:00.000Z,stuNNed,crimsun,"like if two soundcards doesn't select the right one or something, i just remember having sound issues upon initial install of warty"
+301,1.tsv,2005-01-10T08:23:00.000Z,stuNNed,crimsun,"i gave my neighbor a bunch, he knows all the kids in town, and going to hand em out at school :D"
+301,1.tsv,2005-01-10T08:23:00.000Z,stuNNed,crimsun,but i think gave my neighbor too much going to take some back for school
+301,1.tsv,2005-01-23T09:53:00.000Z,stuNNed,crimsun,"i'll fire up laptop and check, one sec"
+301,1.tsv,2005-01-23T09:56:00.000Z,stuNNed,crimsun,"yep, broken, sorry about that"
+301,1.tsv,2005-01-23T10:29:00.000Z,crimsun,stuNNed,what packages did mplayer-586 [for warty]  choke on?
+301,1.tsv,2005-01-23T10:29:00.000Z,stuNNed,crimsun,"libarts0, libfrididi0, libggi2, libungif4g"
+301,1.tsv,2005-01-23T10:32:00.000Z,crimsun,stuNNed,"I'm backporting it from hoary; if you're willing to try the packages, I'll let you know from where to grab them when it finishes."
+301,1.tsv,2005-01-23T10:32:00.000Z,stuNNed,crimsun,"awesome, of course :)"
+301,1.tsv,2005-01-23T10:32:00.000Z,stuNNed,crimsun,attempting the downgrade as mentioned per the wiki
+301,1.tsv,2005-01-23T11:00:00.000Z,crimsun,stuNNed,ping
+301,1.tsv,2005-01-24T06:26:00.000Z,stuNNed,crimsun,the downgrade seemed to work :D
+301,1.tsv,2005-01-24T06:28:00.000Z,crimsun,stuNNed,excellent.
+301,1.tsv,2005-01-27T12:50:00.000Z,stuNNed,crimsun,"there are a few issues with gmplayer of that mplayer, /query ?"
+301,1.tsv,2005-01-27T12:52:00.000Z,crimsun,stuNNed,have you run across any?
+301,1.tsv,2005-01-27T12:52:00.000Z,stuNNed,crimsun,"yes, a few with gmplayer"
+301,1.tsv,2005-01-27T12:52:00.000Z,stuNNed,crimsun,"two, actually"
+301,1.tsv,2005-01-27T12:52:00.000Z,crimsun,stuNNed,spill.
+301,1.tsv,2005-01-27T12:55:00.000Z,stuNNed,crimsun,"(1) when gmplayer starts the rotary (hourglass) hangs for a few seconds like it's waiting for something to initialize and (2) nevermind, and issue in my mplayer.conf :) and (3) might set the default xo=xv so that when 'f' key for fullscreen, image isn't centered in middle of screen but does take up full screen?  the first is the only real issue though.  let me run gmplayer in terminal"
+301,1.tsv,2005-01-27T12:55:00.000Z,stuNNed,crimsun,ok when i start gmplayer in terminal there is no hang
+301,1.tsv,2005-01-27T12:55:00.000Z,stuNNed,crimsun,i don't use gmplayer really but...
+301,1.tsv,2005-01-27T12:55:00.000Z,stuNNed,crimsun,only when i start it from menu
+301,1.tsv,2005-01-27T12:56:00.000Z,crimsun,stuNNed,I will take a look at the menu entry
+301,1.tsv,2005-01-27T12:56:00.000Z,crimsun,stuNNed,don't understand (2) or (3)
+301,1.tsv,2005-01-27T12:57:00.000Z,crimsun,stuNNed,"x11 is a safer default, because xv is broken on some chipsets"
+301,1.tsv,2005-01-27T12:57:00.000Z,stuNNed,crimsun,nevermind on (2) and (3) x11 is safer? nevermind on that one as well :)
+301,1.tsv,2005-01-27T12:57:00.000Z,crimsun,stuNNed,thanks for notifying.
+301,1.tsv,2005-01-27T12:57:00.000Z,crimsun,stuNNed,xv is optimised for the drivers that support it properly
+301,1.tsv,2005-01-27T12:58:00.000Z,stuNNed,crimsun,only probs can find then is when launched from menu entry
+301,1.tsv,2005-01-27T12:58:00.000Z,stuNNed,crimsun,think it's safe to use hoary 2.6.10 kernel in warty?
+301,1.tsv,2005-01-27T13:01:00.000Z,crimsun,stuNNed,"your call, though I advise you to stick with Warty's if you use the binary-only Nvidia or ATI driver."
+301,1.tsv,2005-01-27T13:02:00.000Z,stuNNed,crimsun,"got it, thanks"
+301,1.tsv,2005-01-27T16:12:00.000Z,crimsun,stuNNed,did starting gmplayer from the menu work in a previous mplayer build?
+301,1.tsv,2005-01-28T12:32:00.000Z,stuNNed,crimsun,know how redhat has ntsysv ncurses based app does ubuntu/debian have anything similar for handling init scripts?
+301,1.tsv,2005-01-28T12:33:00.000Z,crimsun,stuNNed,update-rc.d
+301,1.tsv,2005-01-28T12:34:00.000Z,stuNNed,crimsun,fscking update-rc.d fscking giving me fscking headaches
+301,1.tsv,2005-01-29T13:04:00.000Z,crimsun,stuNNed,there must be something awry with your menu entry for gmplayer. Someone else attests that it executes perfectly.
+301,1.tsv,2005-01-29T13:06:00.000Z,stuNNed,crimsun,"you're right, sorry about that, it's probably on my end as i did an downgrade from hoary to wary, thanks, anymore testing i can do let me know, i should have mentioned that beforehand, but it works!"
+301,1.tsv,2005-01-29T13:09:00.000Z,stuNNed,crimsun,how to fix the menu entry?  anything like delete ~/.gconf or?
+301,1.tsv,2005-02-04T11:49:00.000Z,stuNNed,crimsun,know if when hoary ships fbsplash will be enabled and if so will default gnome-terminal background be the fbsplash image file?
+301,1.tsv,2005-02-04T11:50:00.000Z,crimsun,stuNNed,"to be honest, I have no idea; jdub probably has a much clearer idea."
+301,1.tsv,2005-02-04T11:50:00.000Z,stuNNed,crimsun,ok thanks
+301,1.tsv,2005-02-10T06:25:00.000Z,crimsun,stuNNed,"links, w3m, lynx, ..."
+301,1.tsv,2005-02-10T06:35:00.000Z,stuNNed,crimsun,can you dcc me /etc/Muttrc that ships with mutt?
+301,1.tsv,2005-02-18T17:01:00.000Z,stuNNed,crimsun,"hi, i've ran a few apps under 'sudo -s' now things are messed up, is there any way to recover?"
+301,1.tsv,2005-02-18T17:01:00.000Z,crimsun,stuNNed,that depends entirely on what you commands you executed.
+301,1.tsv,2005-02-18T17:02:00.000Z,stuNNed,crimsun,"guarddog, lokkit, firestarter, i think is all"
+301,1.tsv,2005-02-18T17:03:00.000Z,stuNNed,crimsun,now ls -l doesn't respond and gnome panels are messed up and nautilus can't start
+301,1.tsv,2005-02-18T17:04:00.000Z,stuNNed,crimsun,or is there a link to unfsck? i.e. i know it was mentioned in k3b-setup
+301,1.tsv,2005-02-18T17:05:00.000Z,crimsun,stuNNed,what did you do with those applications?
+301,1.tsv,2005-02-18T17:05:00.000Z,crimsun,stuNNed,"(I use a homebrewed iptables script, so I'm afraid I can't necessarily assist.)"
+301,1.tsv,2005-02-18T17:06:00.000Z,stuNNed,crimsun,"i launched them under 'sudo -s' and configured them, or would there be another reason why ls -l /home/lance doesn't respond?"
+301,1.tsv,2005-02-18T17:06:00.000Z,stuNNed,crimsun,or gets hung?
+301,1.tsv,2005-02-18T17:06:00.000Z,crimsun,stuNNed,"usually if that command doesn't respond, you have a serious problem like a kernel oops"
+301,1.tsv,2005-02-18T17:06:00.000Z,crimsun,stuNNed,does it work after a reboot?
+301,1.tsv,2005-02-18T17:06:00.000Z,stuNNed,crimsun,sure doesn't
+301,1.tsv,2005-02-18T17:07:00.000Z,stuNNed,crimsun,"let me try booting another kernel, brb"
+301,1.tsv,2005-02-18T06:09:00.000Z,stuNNed,crimsun,it was stupid firestarter and networked filesystems
+301,1.tsv,2005-02-22T11:55:00.000Z,stuNNed,crimsun,how's array 4 working out?
+301,1.tsv,2005-02-22T11:56:00.000Z,crimsun,stuNNed,"Hoary system itself seems fine, but I can't use the display since the crt is kaput. :)"
+301,1.tsv,2005-02-24T13:15:00.000Z,stuNNed,crimsun,thanks
+301,1.tsv,2005-02-25T08:14:00.000Z,stuNNed,crimsun,"i *really* like the new update manager btw, much more intuitive and simpler than synaptic :)"
+301,1.tsv,2005-02-25T11:35:00.000Z,crimsun,stuNNed,aptitude is another front end to apt.
+301,1.tsv,2005-02-28T11:15:00.000Z,stuNNed,crimsun,"lol i did, why? :P"
+301,1.tsv,2005-02-28T11:16:00.000Z,stuNNed,crimsun,is aptitude safer to use than say apt-get dist-upgrade?
+301,1.tsv,2005-02-28T11:16:00.000Z,crimsun,stuNNed,"'safer?' for me, it's preference."
+301,1.tsv,2005-03-03T12:48:00.000Z,stuNNed,crimsun,ever use openbox?
+301,1.tsv,2005-03-03T12:49:00.000Z,crimsun,stuNNed,"for a long time, openbox2 - then openbox3 - were my preferred wms"
+301,1.tsv,2005-03-03T12:51:00.000Z,stuNNed,crimsun,using metacity now?
+301,1.tsv,2005-03-03T12:51:00.000Z,crimsun,stuNNed,"no, I'm at work, so I'm technically using whatever XP uses."
+301,1.tsv,2005-03-03T12:52:00.000Z,stuNNed,crimsun,on your ubuntu box i meant
+301,1.tsv,2005-03-03T12:55:00.000Z,crimsun,stuNNed,for my main user - yes - although I use a variety of wms for different users
+301,1.tsv,2005-03-13T06:35:00.000Z,stuNNed,crimsun,know how with openssh it will not write ~/.ssh/known_hosts?
+301,1.tsv,2005-03-13T06:35:00.000Z,crimsun,stuNNed,?
+301,1.tsv,2005-03-13T07:00:00.000Z,stuNNed,crimsun,i.e. known_hosts doesn't get written when the server sends it's public key...
+301,1.tsv,2005-03-13T07:01:00.000Z,crimsun,stuNNed,"why would it when the keys are exchanged? that file is only modified when you, as the user, acknowledge affirmatively that you wish to add the host key"
+301,1.tsv,2005-03-13T07:08:00.000Z,stuNNed,crimsun,my problem is i have two computers behind the same domain name so i get a 'man in the middle attack' warning and no connect when switching between the two
+301,1.tsv,2005-03-13T07:10:00.000Z,crimsun,stuNNed,'switching between the two?'
+301,1.tsv,2005-03-13T07:14:00.000Z,stuNNed,crimsun,"ssh to one computer name@domain different port, disconnect, ssh same_name@domain different port, the second time i  get warning and no connect"
+301,1.tsv,2005-03-13T07:16:00.000Z,crimsun,stuNNed,the warning is normal
+301,1.tsv,2005-03-13T07:42:00.000Z,stuNNed,crimsun,"i figured it out, thanks!!!"
+301,1.tsv,2005-03-13T12:01:00.000Z,stuNNed,crimsun,"hi, does ~/.gnome2 contain gconf variables?"
+301,1.tsv,2005-03-14T06:34:00.000Z,stuNNed,crimsun,muine is in universe afaik
+301,1.tsv,2005-03-14T06:35:00.000Z,crimsun,stuNNed,?
+301,1.tsv,2005-03-14T06:35:00.000Z,stuNNed,crimsun,"it's crashing often in hoary after running mp3gain on a large mp3 dir, should i file a bug?"
+301,1.tsv,2005-03-14T06:35:00.000Z,stuNNed,crimsun,i was asking if muine is in universie
+301,1.tsv,2005-03-14T06:35:00.000Z,crimsun,stuNNed,absolutely
+301,1.tsv,2005-03-14T06:35:00.000Z,crimsun,stuNNed,0.8.2-5ubuntu1 is hoary/universe
+301,1.tsv,2005-03-14T06:36:00.000Z,stuNNed,crimsun,do i need to copy anybody or defaults is good?
+301,1.tsv,2005-03-14T06:36:00.000Z,crimsun,stuNNed,defaults are fine.
+301,1.tsv,2005-03-14T12:48:00.000Z,stuNNed,crimsun,opened a bug regarding muine
+301,1.tsv,2005-03-14T12:49:00.000Z,crimsun,stuNNed,#?
+301,1.tsv,2005-03-14T12:49:00.000Z,stuNNed,crimsun,7124
+301,1.tsv,2005-03-14T12:52:00.000Z,stuNNed,crimsun,is it possible muine is having a buffer overflow due to libmuine.so.so not being able to be found?  why it's looking for that i have no clue.
+301,1.tsv,2005-03-14T12:52:00.000Z,crimsun,stuNNed,buffer overflow? highly doubtful.
+301,1.tsv,2005-03-14T12:53:00.000Z,stuNNed,crimsun,"just a wild guess, how can i provide more debugging info?  gdb tells nothing."
+301,1.tsv,2005-03-14T12:53:00.000Z,crimsun,stuNNed,did you set the MONO_DEBUG env var to a nonzero value?
+301,1.tsv,2005-03-14T12:54:00.000Z,stuNNed,crimsun,"only thing i set was MONO_LOG_LEVEL=debug, what do you recommend setting it to? like 3?"
+301,1.tsv,2005-03-14T12:54:00.000Z,stuNNed,crimsun,export MONO_DEBUG=3 should work?
+301,1.tsv,2005-03-14T12:55:00.000Z,stuNNed,crimsun,or 5 or something
+301,1.tsv,2005-03-14T12:55:00.000Z,stuNNed,crimsun,if i go into gconf settings and change monitored folder to something else it pops back working
+301,1.tsv,2005-03-14T13:01:00.000Z,stuNNed,crimsun,last line in debug is Mono-INFO: DllImport loading location: 'libglib-2.0.so.0'. then it segfaults.
+301,1.tsv,2005-03-14T13:05:00.000Z,stuNNed,crimsun,"could be one particular mp3 on my end, i'll try to isolate a bit more"
+301,1.tsv,2005-03-14T13:05:00.000Z,stuNNed,crimsun,isolate *it* lol
+301,1.tsv,2005-03-22T11:30:00.000Z,stuNNed,crimsun,how's it going mate?
+301,1.tsv,2005-03-22T11:31:00.000Z,crimsun,stuNNed,"n'bad, yourself?"
+301,1.tsv,2005-03-22T11:32:00.000Z,stuNNed,crimsun,"not bad, just watched a smoothwall install die on a 1000mb nic card and might be getting some work installing a linux server later on"
+301,1.tsv,2005-03-22T11:32:00.000Z,stuNNed,crimsun,"and *really* impressed with how ubuntu is coming along, minus the crap of a power management my laptop has"
+301,1.tsv,2005-03-22T12:28:00.000Z,stuNNed,crimsun,what should i use as cd burning app if i want to get rid of k3b?
+301,1.tsv,2005-03-22T12:28:00.000Z,crimsun,stuNNed,graveman?
+301,1.tsv,2005-03-22T12:39:00.000Z,stuNNed,crimsun,can graveman do iso's or just rely on nautilus for that?
+301,1.tsv,2005-03-24T07:28:00.000Z,stuNNed,crimsun,is there alsa cvs available in ubuntu?
+301,1.tsv,2005-03-24T07:29:00.000Z,crimsun,stuNNed,cvs? no.
+301,1.tsv,2005-03-24T07:29:00.000Z,crimsun,stuNNed,1.0.8 is available in hoary/universe via the 'alsa-source' package.
+301,1.tsv,2005-03-24T07:29:00.000Z,stuNNed,crimsun,"yes, my card just got 24-bit support but i have to patch against cvs to use it, i can wait i guess, would be nice though :)"
+301,1.tsv,2005-03-24T07:43:00.000Z,stuNNed,crimsun,on my laptop with Hoary if i 'dmesg|grep -i dsdt' it says initrd doesn't have a dsdt patch when on bugzilla it says it does...
+301,1.tsv,2005-03-24T07:48:00.000Z,stuNNed,crimsun,any ideas on the dsdt or just comment on the closed bug?
+301,1.tsv,2005-03-24T07:49:00.000Z,crimsun,stuNNed,"sorry, could you point me to the bug #?"
+301,1.tsv,2005-03-24T07:50:00.000Z,stuNNed,crimsun,https://bugzilla.ubuntu.com/show_bug.cgi?id=3379
+301,1.tsv,2005-03-24T07:55:00.000Z,crimsun,stuNNed,"ok, will look in a bit, busy atm"
+301,1.tsv,2005-03-24T07:57:00.000Z,stuNNed,crimsun,ok thanks
+301,1.tsv,2005-04-08T11:33:00.000Z,crimsun,stuNNed,none. alsa-driver is the name of the source package.
+301,1.tsv,2005-04-08T11:34:00.000Z,crimsun,stuNNed,what specifically are you looking for?
+301,1.tsv,2005-04-08T11:34:00.000Z,stuNNed,crimsun,driver module
+301,1.tsv,2005-04-08T11:34:00.000Z,crimsun,stuNNed,try using the alsa-source and alsa-base debs from experimental
+301,1.tsv,2005-04-08T11:34:00.000Z,crimsun,stuNNed,I'm using them just fine (1.0.8+1.0.9rc2-1)
+301,1.tsv,2005-04-08T11:35:00.000Z,stuNNed,crimsun,how can i get experimental?
+301,1.tsv,2005-04-08T11:37:00.000Z,stuNNed,crimsun,?
+301,1.tsv,2005-04-08T11:38:00.000Z,crimsun,stuNNed,it's fairly complicated (you can't use the debs directly)
+301,1.tsv,2005-04-08T11:39:00.000Z,stuNNed,crimsun,can i make .debs from alsa-driver package?
+301,1.tsv,2005-04-08T11:40:00.000Z,crimsun,stuNNed,"yes, if you tweak."
+301,1.tsv,2005-04-08T11:40:00.000Z,crimsun,stuNNed,"however, the dependencies are fairly twisted.  I don't recommend it."
+301,1.tsv,2005-04-08T11:40:00.000Z,stuNNed,crimsun,ok thanks
+301,1.tsv,2005-04-08T11:40:00.000Z,stuNNed,crimsun,which contains the .ko file?
+301,1.tsv,2005-04-08T11:40:00.000Z,stuNNed,crimsun,in regular hoary
+301,1.tsv,2005-04-08T11:40:00.000Z,crimsun,stuNNed,the alsa-driver deb that you build from alsa-source
+301,1.tsv,2005-04-08T11:41:00.000Z,crimsun,stuNNed,linux-image contains those
+301,1.tsv,2005-04-08T11:41:00.000Z,stuNNed,crimsun,k thnx
+301,1.tsv,2005-04-08T12:09:00.000Z,stuNNed,crimsun,i know it's probably not a good idea but going to stick with alsa-driver stable for now self compiled p16v support in 1.0.9rc2 seem broken
+301,1.tsv,2005-04-08T12:11:00.000Z,crimsun,stuNNed,sure.  How is ca0106 in 1.0.9rc2 broken?
+301,1.tsv,2005-04-08T12:12:00.000Z,crimsun,stuNNed,you have to use a corresponding 1.0.9rc2 libasound2 as well
+301,1.tsv,2005-04-08T12:12:00.000Z,stuNNed,crimsun,no 24bit support for audigy2
+301,1.tsv,2005-04-08T12:12:00.000Z,stuNNed,crimsun,"ah, so i need the libs as well? doh"
+301,1.tsv,2005-04-08T12:36:00.000Z,stuNNed,crimsun,still broken it seems
+301,1.tsv,2005-04-08T12:36:00.000Z,crimsun,stuNNed,what is?
+301,1.tsv,2005-04-08T12:37:00.000Z,crimsun,stuNNed,1.0.9rc2?
+301,1.tsv,2005-04-08T12:38:00.000Z,stuNNed,crimsun,"p16v support for audigy2, eys"
+301,1.tsv,2005-04-08T12:38:00.000Z,stuNNed,crimsun,regular pcm works fine
+301,1.tsv,2005-04-08T12:39:00.000Z,crimsun,stuNNed,and you've confirmed via cvs revisions that this is the case?
+301,1.tsv,2005-04-08T12:39:00.000Z,stuNNed,crimsun,nope. just tried rc2
+301,1.tsv,2005-04-08T12:40:00.000Z,stuNNed,crimsun,"it's not high priority really, i've submitted a big to gnome's bugzilla regarding gstreamer and custom sink to enable p16v but reckon should wait until at least it makes it into stable before following up on bug?"
+301,1.tsv,2005-04-08T12:41:00.000Z,stuNNed,crimsun,p16v support in alsa for audigy2 that is (wait until stable)
+301,1.tsv,2005-04-08T12:43:00.000Z,crimsun,stuNNed,"not sure how gst would really help there, besides being able to specify a virtual device."
+301,1.tsv,2005-04-08T12:44:00.000Z,stuNNed,crimsun,as the custom sink is broken in gst and works in xine?
+301,1.tsv,2005-04-08T12:45:00.000Z,crimsun,stuNNed,"afaik, the fact that p16v support even works in RC1 is a complete fluke, because it appears to be utterly broken"
+301,1.tsv,2005-04-08T12:46:00.000Z,stuNNed,crimsun,"and broken it is in rc2 heh, i'll help jcdutton if i can"
+301,1.tsv,2005-04-09T16:02:00.000Z,stuNNed,crimsun,"hi, how's it going? do you know how to load a custom dsdt in initrd?"
+301,1.tsv,2005-04-09T16:02:00.000Z,stuNNed,crimsun,in hoary...
+301,1.tsv,2005-04-20T13:31:00.000Z,stuNNed,crimsun,why did they remove the ndiswrapper page?
+301,1.tsv,2005-04-20T13:31:00.000Z,crimsun,stuNNed,"they didn't, it's having difficulties. See the topic."
+301,1.tsv,2005-04-28T13:37:00.000Z,crimsun,stuNNed,there's no one package that does.
+301,1.tsv,2005-04-28T13:38:00.000Z,stuNNed,crimsun,i messed it up somehow is there a way to reset?  when i run dhclient it doesn't write the nameservers
+301,1.tsv,2005-04-28T13:38:00.000Z,stuNNed,crimsun,i was helping troubleshoot the wireless network at school and installed pump and other junk
+301,1.tsv,2005-04-28T13:41:00.000Z,stuNNed,crimsun,how to fix my /etc/resolv.conf so that it writes nameservers when using dhclint? :(
+301,1.tsv,2005-04-28T13:42:00.000Z,crimsun,stuNNed,"you're not invoking dhclient manually, are you?"
+301,1.tsv,2005-04-28T13:43:00.000Z,stuNNed,crimsun,yes
+301,1.tsv,2005-04-28T13:43:00.000Z,stuNNed,crimsun,i am invoking dhclient manually
+301,1.tsv,2005-04-28T13:43:00.000Z,crimsun,stuNNed,"err, why?"
+301,1.tsv,2005-04-28T13:43:00.000Z,crimsun,stuNNed,the instance in /etc/network/interfaces doesn't work?
+301,1.tsv,2005-04-28T13:44:00.000Z,stuNNed,crimsun,what is that?
+301,1.tsv,2005-04-28T13:44:00.000Z,crimsun,stuNNed,that's the actual file.
+301,1.tsv,2005-04-28T13:44:00.000Z,stuNNed,crimsun,ok
+301,1.tsv,2005-05-04T14:49:00.000Z,stuNNed,crimsun,hi
+301,1.tsv,2005-05-04T14:49:00.000Z,crimsun,stuNNed,hi
+301,1.tsv,2005-05-12T14:09:00.000Z,stuNNed,crimsun,what to do after 'apt-get install alsa-source' to install 1.0.8 driver?
+301,1.tsv,2005-05-12T14:25:00.000Z,stuNNed,crimsun,"figured it out lol, thanks to linkage"
+301,1.tsv,2005-05-12T14:25:00.000Z,crimsun,stuNNed,weren't you using 1.0.8cvs anyhow?
+301,1.tsv,2005-05-12T14:26:00.000Z,stuNNed,crimsun,um was using emu10k1 (oss) there for a bit then to ubuntu stock now 1.0.8
+301,1.tsv,2005-05-12T14:26:00.000Z,stuNNed,crimsun,i couldn't get it to compile with cvscompile
+301,1.tsv,2005-05-12T14:26:00.000Z,crimsun,stuNNed,hum. I could have sworn you were using ALSA 1.0.8+cvs at one point.
+301,1.tsv,2005-05-12T14:27:00.000Z,stuNNed,crimsun,"think i tried at one point, was using 1.0.9rc1"
+301,1.tsv,2005-05-12T14:27:00.000Z,stuNNed,crimsun,it's a shame actually emu10k1(oss) is a decent driver
+301,1.tsv,2005-05-12T14:28:00.000Z,crimsun,stuNNed,of course it's decent; that's where the ALSA driver has its roots :)
+301,1.tsv,2005-05-12T14:28:00.000Z,stuNNed,crimsun,ah
+301,1.tsv,2005-05-13T10:33:00.000Z,stuNNed,crimsun,why when i save something to the desktop it doesn't show up?
+301,1.tsv,2005-05-13T10:34:00.000Z,crimsun,stuNNed,in gnome?
+301,1.tsv,2005-05-16T06:59:00.000Z,stuNNed,crimsun,"hi, is it normal behaviour that is i save something to the Desktop folder it doesn't show up on the desktop unless i refresh that folder in Nautilus?"
+301,1.tsv,2005-05-16T07:00:00.000Z,crimsun,stuNNed,"I suppose that depends on the backend, which depends whether dnotify or inotify is used"
+301,1.tsv,2005-05-16T07:00:00.000Z,stuNNed,crimsun,which do you use?
+301,1.tsv,2005-05-16T07:01:00.000Z,crimsun,stuNNed,"I use inotify, because I'm using a pre-2.6.12"
+301,1.tsv,2005-05-16T07:01:00.000Z,stuNNed,crimsun,so any previous uses dnotify?
+301,1.tsv,2005-05-16T07:02:00.000Z,crimsun,stuNNed,Hoary's kernel does
+301,1.tsv,2005-05-16T07:04:00.000Z,stuNNed,crimsun,"odd, using gtk's file save dialogue 90% of the time if i save a file to teh Desktop it doesn't show up unless i refresh in Nautilus"
+301,1.tsv,2005-05-16T07:04:00.000Z,crimsun,stuNNed,my hunch is that dnotify+gamin are to blame
+301,1.tsv,2005-05-16T07:05:00.000Z,stuNNed,crimsun,"oh, how to get rid of them?  this is an upgrade from Warty..."
+301,1.tsv,2005-05-16T07:05:00.000Z,crimsun,stuNNed,you don't have any choice currently
+301,1.tsv,2005-05-16T07:05:00.000Z,stuNNed,crimsun,can i go back to fam or is that a bad idea as well?
+301,1.tsv,2005-05-16T07:06:00.000Z,stuNNed,crimsun,is a shame i'll just have to refresh nautilus to see what's on desktop w/out killing nautilus
+301,1.tsv,2005-05-16T07:06:00.000Z,crimsun,stuNNed,bad idea to go back
+301,1.tsv,2005-05-16T07:06:00.000Z,stuNNed,crimsun,"ok then, dangit"
+301,1.tsv,2005-05-16T07:07:00.000Z,stuNNed,crimsun,"should i file a bug, upgrade to breezy, or just wait?"
+301,1.tsv,2005-05-16T07:07:00.000Z,crimsun,stuNNed,"check bugzilla, certainly, but it's a better idea to wait"
+301,1.tsv,2005-05-16T07:07:00.000Z,stuNNed,crimsun,"ok, dangit"
+301,1.tsv,2005-06-04T08:20:00.000Z,stuNNed,crimsun,ping
+301,1.tsv,2005-06-04T09:13:00.000Z,crimsun,stuNNed,pong
+301,1.tsv,2005-06-04T09:15:00.000Z,stuNNed,crimsun,"remember we were talking about setting up two soundcards?  there is person in #creative could use some help with that, if you have a minute."
+301,1.tsv,2005-06-04T09:15:00.000Z,crimsun,stuNNed,with ALSA?
+301,1.tsv,2005-06-04T09:16:00.000Z,stuNNed,crimsun,"right now oss but maybe alsa later, could you join please?"
+301,1.tsv,2005-06-04T09:16:00.000Z,crimsun,stuNNed,"have him ping me when he's dealing with ALSA, thanks"
+301,1.tsv,2005-06-04T09:17:00.000Z,stuNNed,crimsun,"got it, thanks"
+301,1.tsv,2005-11-17T07:25:00.000Z,crimsun,stuNNed,no
+301,1.tsv,2005-11-17T07:25:00.000Z,stuNNed,crimsun,can't install captive with it?
+301,1.tsv,2005-11-17T07:25:00.000Z,crimsun,stuNNed,"sure you can, just install build-essential, gcc-3.4, and linux-headers-$(uname -r)"
+301,1.tsv,2005-11-17T07:26:00.000Z,stuNNed,crimsun,ok thanks
+301,1.tsv,2005-11-17T07:39:00.000Z,stuNNed,crimsun,is captive part of ubuntu or do i need to add a repo or just install a .deb?
+301,1.tsv,2005-11-17T07:40:00.000Z,crimsun,stuNNed,you need to compile it yourself
+301,1.tsv,2005-11-17T07:40:00.000Z,stuNNed,crimsun,thanks
+301,1.tsv,2005-11-17T08:11:00.000Z,stuNNed,crimsun,"i found a repo for captive, should i still install from source?"
+301,1.tsv,2005-11-17T08:12:00.000Z,crimsun,stuNNed,a repo may not be specifically for your Ubuntu install
+301,1.tsv,2005-11-17T08:13:00.000Z,stuNNed,crimsun,ok i'll go with the source!
+301,1.tsv,2005-01-04T13:22:00.000Z,crimsun,stuNNed,huh?
